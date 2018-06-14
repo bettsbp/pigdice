@@ -19,3 +19,10 @@
 body {
   background-color: grey;
 }
+
+#results {
+  display: block;
+}
+button {
+  margin: 10px;
+}
